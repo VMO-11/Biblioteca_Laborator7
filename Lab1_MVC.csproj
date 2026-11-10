@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+      <UserSecretsId>fe2f7f9e-c30f-4842-a7ed-6d09029ec4b8</UserSecretsId>
+  </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Grpc.AspNetCore" Version="2.85.0" />
+      <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.14" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="10.0.14" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.14" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.14">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.Extensions.AI" Version="10.11.0" />
+      <PackageReference Include="Microsoft.Extensions.AI.OpenAI" Version="10.11.0" />
+      <PackageReference Include="Microsoft.Extensions.ML" Version="5.0.1" />
+      <PackageReference Include="Microsoft.ML.Recommender" Version="0.23.1" />
+      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="10.0.2" />
+      <PackageReference Include="ModelContextProtocol.AspNetCore" Version="2.4.0" />
+      <PackageReference Include="Scalar.AspNetCore" Version="2.18.7" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Update="MLModels/BookRecommender.zip">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+        <None Update="MLModels/GenreClassifier.zip">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Protobuf Include="Protos\recommender.proto" GrpcServices="Server" />
+    </ItemGroup>
+
+</Project>
