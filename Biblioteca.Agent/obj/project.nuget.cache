@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "oil7OfN5dbw=",
+  "success": true,
+  "projectFilePath": "/Users/vladaumihai/RiderProjects/Borsos_Denis_Biblioteca/Biblioteca.Agent/Biblioteca.Agent.csproj",
+  "expectedPackageFiles": [
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.ai/10.11.0/microsoft.extensions.ai.10.11.0.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.ai.abstractions/10.11.0/microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.ai.openai/10.11.0/microsoft.extensions.ai.openai.10.11.0.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.caching.abstractions/10.0.14/microsoft.extensions.caching.abstractions.10.0.14.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.14/microsoft.extensions.configuration.abstractions.10.0.14.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.14/microsoft.extensions.dependencyinjection.abstractions.10.0.14.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.14/microsoft.extensions.diagnostics.abstractions.10.0.14.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.14/microsoft.extensions.fileproviders.abstractions.10.0.14.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.hosting.abstractions/10.0.14/microsoft.extensions.hosting.abstractions.10.0.14.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.14/microsoft.extensions.logging.abstractions.10.0.14.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.options/10.0.14/microsoft.extensions.options.10.0.14.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.extensions.primitives/10.0.14/microsoft.extensions.primitives.10.0.14.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/modelcontextprotocol/2.4.0/modelcontextprotocol.2.4.0.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/modelcontextprotocol.core/2.4.0/modelcontextprotocol.core.2.4.0.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/openai/2.14.0/openai.2.14.0.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/system.clientmodel/1.15.0/system.clientmodel.1.15.0.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/system.memory.data/10.0.9/system.memory.data.10.0.9.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/system.numerics.tensors/10.0.13/system.numerics.tensors.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
