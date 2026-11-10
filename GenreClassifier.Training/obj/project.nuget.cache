@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lbj9vtRkiq4=",
+  "success": true,
+  "projectFilePath": "/Users/vladaumihai/RiderProjects/Borsos_Denis_Biblioteca/GenreClassifier.Training/GenreClassifier.Training.csproj",
+  "expectedPackageFiles": [
+    "/Users/vladaumihai/.nuget/packages/microsoft.bcl.asyncinterfaces/9.0.4/microsoft.bcl.asyncinterfaces.9.0.4.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.ml/5.0.1/microsoft.ml.5.0.1.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.ml.cpumath/5.0.1/microsoft.ml.cpumath.5.0.1.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/microsoft.ml.dataview/5.0.1/microsoft.ml.dataview.5.0.1.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/system.codedom/9.0.4/system.codedom.9.0.4.nupkg.sha512",
+    "/Users/vladaumihai/.nuget/packages/system.numerics.tensors/9.0.4/system.numerics.tensors.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
